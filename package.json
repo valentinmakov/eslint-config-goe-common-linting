@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-goe-common-linting",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"private": false,
 	"description": "Common linting rules for all go-e Labs front-end projects",
 	"main": ".eslintrc.js",
